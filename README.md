@@ -1,7 +1,10 @@
 ### Hi there, welcome to my GitHub page 👋
 My name is Nazzere 🌸, and I'm a backend developer.
+
 📫 How to reach me: naz3ere@gmail.com
+
 My education: Bachelor's Degree in Systems of Information Security. And studying for a Master's Degree in Software Engineering (2024).
+
 
 ## My tech stack
 
