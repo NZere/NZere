@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Github Stats
-![Metrics](/github-metrics.svg)
 
-[![](https://visitcount.itsvg.in/api?id=NZere&label=Profile%20Views&color=11&pretty=false)](https://visitcount.itsvg.in)
+## Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NZere&layout=compact)](https://github.com/NZere?tab=repositories)
